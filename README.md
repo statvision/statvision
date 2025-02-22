@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!  
 
-<!--
-**statvision/statvision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://via.placeholder.com/800x200.png?text=Data+Science+Journey)  
+*Exploring the world of data, one insight at a time!*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+I am a **passionate and dedicated aspiring data scientist and statistician** with a love for uncovering stories hidden in data. I enjoy solving problems, collaborating with teams, and building tools to make sense of the world. Here's what I bring to the table:  
+
+### 🛠️ My Skills  
+- 🐍 **Python** - Data analysis, visualization, and scripting  
+- 📊 **Excel & Power Query** - Data wrangling and transformation  
+- 📈 **Power BI** - Interactive dashboards and insights  
+- 🗃️ **SQL with MySQL** - Database querying and management  
+- 📉 **SPSS** - Statistical analysis  
+- 📝 **R Programming** - Advanced stats and visualizations  
+- 🧠 **Problem Solving** - Tackling challenges with logic and creativity  
+- 🤝 **Team Collaboration** - Working together to achieve goals  
+
+---
+
+## 📊 GitHub Stats  
+
+### 👥 Followers  
+![GitHub Followers](https://img.shields.io/github/followers/statvision?label=Followers&style=social)  
+*Thanks for stopping by! Let's connect and learn together.*
+
+### 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=statvision&color=brightgreen)  
+*Wow, people are actually checking this out!*
+
+### 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=statvision&theme=onedark&margin-w=15)  
+*Celebrating small wins and big milestones!*
+
+---
+
+## 🌐 Let’s Connect!  
+- 📧 Email: [dleroim@gmail.com](mailto:dleroim@gmail.com)  
+
+
+![Footer Image](https://via.placeholder.com/800x100.png?text=Thanks+for+Visiting!)  
+
+*“Data is the new oil, and I’m here to refine it!”*

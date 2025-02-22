@@ -40,6 +40,6 @@ I am a **passionate and dedicated aspiring data scientist and statistician** wit
 - 📧 Email: [dleroim@gmail.com](mailto:dleroim@gmail.com)  
 
 
-![Footer Image](https://via.placeholder.com/800x100.png?text=Thanks+for+Visiting!)  
+![Footer Image](https://github.com/statvision/statvision/blob/main/images/banner%202.jpg)  
 
 *“Data is the new oil, and I’m here to refine it!”*

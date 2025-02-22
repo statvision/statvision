@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!  
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Data+Science+Journey)  
+![Profile Banner](https://github.com/statvision/statvision/blob/main/images/baniere%20github.jpg)  
 *Exploring the world of data, one insight at a time!*
 
 ---
